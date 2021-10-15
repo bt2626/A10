@@ -38,7 +38,7 @@ main h2{
 main h3{
 	font-size: 105%;
 }
-a:hover{
+main a:hover{
 	font-style: italic;
 }
 
@@ -47,6 +47,6 @@ span.shadow{
 }
 
 /* the styles for the footer */
-footer {
+footer p {
 	text-align: center;
 }
